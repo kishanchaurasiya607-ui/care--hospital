@@ -121,7 +121,7 @@ export default function Navbar({ onBookClick }) {
                   24/7 Emergency
                 </p>
                 <p className="font-display font-bold text-sm text-dark mt-0.5">
-                  +91 98765 43210
+                  +91 7985395009
                 </p>
               </div>
             </div>
@@ -140,7 +140,7 @@ export default function Navbar({ onBookClick }) {
           <div className="flex items-center lg:hidden gap-4">
             {/* Phone Quick Link */}
             <a
-              href="tel:+919876543210"
+              href="tel:+917985395009"
               className="bg-teal-light text-primary p-2.5 rounded-full"
             >
               <Phone className="w-4 h-4" />
@@ -226,7 +226,7 @@ export default function Navbar({ onBookClick }) {
                       24/7 Emergency
                     </p>
                     <p className="font-display font-bold text-base text-dark mt-0.5">
-                      +91 98765 43210
+                      +91 7985395009
                     </p>
                   </div>
                 </div>
