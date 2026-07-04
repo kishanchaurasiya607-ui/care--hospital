@@ -158,7 +158,7 @@ export default function Navbar({ onBookClick }) {
         </div>
       </nav>
 
-      {/* Mobile Drawer Menu */}
+      {/* Mobile Drawer  */}
       <AnimatePresence>
         {isOpen && (
           <>
